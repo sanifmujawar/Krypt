@@ -47,7 +47,7 @@ const Footer = () => (
             style={{ marginRight: "4px" }}
           />
           {/* Globe icon */}
-          www.sanifmujawar.com 
+          www.sanifmujawar.com
           <FontAwesomeIcon
             icon={faGlobe}
             size="lg"
