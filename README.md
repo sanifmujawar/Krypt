@@ -34,9 +34,9 @@ To explore and use Krypt:
 
 Take a look at Krypt in action:
 
-[![Krypt Demo](https://example.com/demo-screenshot.png)](https://example.com/demo-video.mp4)
+[![Krypt Demo](./client/src/assets/demo.gif)](https://example.com/demo-video.mp4)
 
-[Watch Demo Video](https://example.com/demo-video.mp4)
+[Watch Demo Video](./client/src/assets/demo.gif)
 
 This demo showcases some of the key features and functionalities of Krypt, giving you a glimpse of what you can achieve with this modern web 3.0 blockchain application.
 
